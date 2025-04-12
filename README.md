@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👋 Hi, I'm [Your Name]
+
+💻 GitHub PRO User  
+🚀 Passionate about open-source and web technologies.
+
+![GitHub Pro](https://img.shields.io/badge/GitHub-PRO-black?style=flat-square&logo=github)
+
