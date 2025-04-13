@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 👋 Hontimmy here...
 
 💻 GitHub PRO User  
-🚀 Passionate about open-source and web technologies.
+🚀 Passionate about open-source, blockchains and web technologies.
 
 ![GitHub Pro](https://img.shields.io/badge/GitHub-PRO-black?style=flat-square&logo=github)
 
